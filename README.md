@@ -1,4 +1,4 @@
-![alt text](https://github.com/sahil0094/Online_-News-Popularity/blob/master/mashable1.jpg?raw=true)
+![alt text](https://github.com/sahil0094/Online-News-Popularity/blob/master/mashable1.jpg?raw=true)
 # Online-News-Popularity
 Online News Popularity
 The data comes from Mashable, a well-known online news website. 
