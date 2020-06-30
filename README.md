@@ -1,8 +1,8 @@
 ![alt text](https://github.com/sahil0094/Online-News-Popularity/blob/master/mashable1.jpg?raw=true)
 # Online-News-Popularity
-With the expansion of the Internet, more and more people enjoy reading and sharing online news articles. The number of shares under a news article indicates how popular the news is. In this project, we intend to find the best model and set of features to increase the popularity of online news, using machine learning techniques. Our data comes from Mashable, a well-known online news website. We implemented different learning algorithms on the dataset, ranging from various classification technique like Logistic Regression, Decision Tree ,Random Forest & other Tree Boosted Models. Their performances are recorded and compared. Feature selection methods are used to improve performance and reduce features. LightGBM Forest turns out to be the best model for prediction, and it can achieve an auc score of 73.4% with optimal parameters.
+With the expansion of the Internet, more and more people enjoy reading and sharing online news articles. The number of shares under a news article indicates how popular the news is.  Our data comes from Mashable, a well-known online news website. We implemented different learning algorithms on the dataset, ranging from various classification technique like Logistic Regression, Decision Tree ,Random Forest & other Tree Boosted Models. Their performances are recorded and compared. Feature selection methods are used to improve performance and reduce features. LightGBM Forest turns out to be the best model for prediction, and it can achieve an auc score of 73.4% with optimal parameters.
 
-# Objectivve:
+# Objective:
 We will provide recommendations to increase popularity of any article by tweaking some of the charateristics like number of words, number of images  of the article.Our work can help online news companies to improve news popularity before publishing it.
 
 # File Descriptions:
@@ -22,11 +22,11 @@ We will provide recommendations to increase popularity of any article by tweakin
 ![alt text](https://github.com/sahil0094/Online-News-Popularity/blob/master/Images/Feature_imp.png?raw=true)
 
 # Recommendations
-•	Restrict article word length to 2500 words
-•	Number of embedded links should be in range 0-25
-•	Number of images should be in range 0-10. Lesser the better
-•	Number of videos should be between 0-5. Lesser the better
-•	References to older articles which have high popularity
-•	Publish articles on weekend
-•	Focusing more on Entertainment or Lifestyle articles can get you popularity
+<li>Restrict article word length to 2500 words
+<li>Number of embedded links should be in range 0-25
+<li>Number of images should be in range 0-10. Lesser the better
+<li>Number of videos should be between 0-5. Lesser the better
+<li>References to older articles which have high popularity
+<li>Publish articles on weekend
+<li.Focusing more on Entertainment or Lifestyle articles can get you popularity
 
