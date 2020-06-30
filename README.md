@@ -1,8 +1,9 @@
 ![alt text](https://github.com/sahil0094/Online-News-Popularity/blob/master/mashable1.jpg?raw=true)
 # Online-News-Popularity
-Online News Popularity
-The data comes from Mashable, a well-known online news website. 
-I have implemented different learning algorithms on the dataset, ranging from various count regression technique to Logistic Regression, Decision Tree,Random Forest,Gradient Boost and XGBoost.My work can help online news companies to improve news popularity. 
+With the expansion of the Internet, more and more people enjoy reading and sharing online news articles. The number of shares under a news article indicates how popular the news is. In this project, we intend to find the best model and set of features to increase the popularity of online news, using machine learning techniques. Our data comes from Mashable, a well-known online news website. We implemented different learning algorithms on the dataset, ranging from various classification technique like Logistic Regression, Decision Tree ,Random Forest & other Tree Boosted Models. Their performances are recorded and compared. Feature selection methods are used to improve performance and reduce features. LightGBM Forest turns out to be the best model for prediction, and it can achieve an auc score of 73.4% with optimal parameters.
+
+# Objectivve:
+We will provide recommendations to increase popularity of any article by tweaking some of the charateristics like number of words, number of images  of the article.Our work can help online news companies to improve news popularity before publishing it.
 
 # File Descriptions:
 <ul>
@@ -19,3 +20,13 @@ I have implemented different learning algorithms on the dataset, ranging from va
 
 # Feature Importance (XGBOOST)
 ![alt text](https://github.com/sahil0094/Online-News-Popularity/blob/master/Images/Feature_imp.png?raw=true)
+
+# Recommendations
+•	Restrict article word length to 2500 words
+•	Number of embedded links should be in range 0-25
+•	Number of images should be in range 0-10. Lesser the better
+•	Number of videos should be between 0-5. Lesser the better
+•	References to older articles which have high popularity
+•	Publish articles on weekend
+•	Focusing more on Entertainment or Lifestyle articles can get you popularity
+
