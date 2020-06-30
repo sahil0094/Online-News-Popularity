@@ -28,5 +28,5 @@ We will provide recommendations to increase popularity of any article by tweakin
 <li>Number of videos should be between 0-5. Lesser the better
 <li>References to older articles which have high popularity
 <li>Publish articles on weekend
-<li.Focusing more on Entertainment or Lifestyle articles can get you popularity
+<li>Focusing more on Entertainment or Lifestyle articles can get you popularity
 
