@@ -13,3 +13,9 @@ I have implemented different learning algorithms on the dataset, ranging from va
 <li>Univariate_Analysis.html- Univariate analysis using Pandas profiling library
 <li>Webapp.zip -Web app made in flask to demonstrate working of model 
 <li>Fnal_report.pdf - Final report describing the whole process used for the project
+  
+# Final Model Predictions
+![alt text](https://github.com/sahil0094/Online-News-Popularity/blob/master/Images/Score.png?raw=true)
+
+# Feature Importance (XGBOOST)
+![alt text](https://github.com/sahil0094/Online-News-Popularity/blob/master/Images/Feature_imp.png?raw=true)
