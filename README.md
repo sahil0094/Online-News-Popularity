@@ -11,3 +11,5 @@ I have implemented different learning algorithms on the dataset, ranging from va
 <li>Online_News_Popularity_Multiclass.ipynb- Checking possibilty of multiple classes using clustering techniques.
 <li>Sample analysis.ipynb- Web scrapped one article using beautiful soup and calculated all column values for that particular article using NLP
 <li>Univariate_Analysis.html- Univariate analysis using Pandas profiling library
+<li>Webapp.zip -Web app made in flask to demonstrate working of model 
+<li>Fnal_report.pdf - Final report describing the whole process used for the project
